@@ -1,0 +1,229 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+   }
+   a:link{color: white;}
+   a:active{color: white;}
+   a:visited{color: white;}
+   
+   header{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   }
+   nav{
+    background-color: black;
+    height: 46px;
+    display: flex;
+    justify-content: center;}
+nav ul{
+    width: 1146px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;}
+nav ul li a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    letter-spacing: -0.2px;}
+.wrap1{position: relative;
+height: 888px;}
+.box1{
+    background-color: lightgray;
+    height: 200px;
+    display: flex;
+    justify-content: center;}
+
+.box2{ 
+    width: 100%;
+    height: 780px;}
+
+.text1{
+    text-align: center;
+    font-size: 50px;
+    margin-top: -920px;
+    font-family:Arial, Helvetica, sans-serif}
+
+    .text2{
+        text-align: right;
+        margin-right: 250px;
+        font-size: 50px;
+        margin-top: 380px;}
+
+    .text3{
+        text-align: center;
+        font-size: 50px;
+        margin-top: -138px;
+        font-family:Arial, Helvetica, sans-serif}
+
+
+    .text4{
+        text-align: left;
+        font-size: 30px;
+        margin-top: 150px;
+        margin-left: 250px;
+        font-family:Arial, Helvetica, sans-serif}
+    .text5{
+       text-align: left;
+       font-size: 20px;
+       margin-top: 50px;
+       margin-left: 250px;
+       font-family:Arial, Helvetica, sans-serif
+       
+       }
+       
+       .text6{
+        text-align: center;
+        font-size: 30px;
+        margin-top: 100px;
+        font-family:Arial, Helvetica, sans-serif
+        
+        }
+
+        .text7{
+            text-align: left;
+            font-size: 20px;
+            margin-left: 250px;
+            margin-top: 120px;
+            margin-bottom: 250px;
+            font-family:Arial, Helvetica, sans-serif
+            
+            }
+        .text8{
+            text-align: center;
+            font-size: 50px;
+            margin-top: -138px;
+            font-family:Arial, Helvetica, sans-serif}
+
+                
+        .text9{
+             text-align: left;
+            font-size: 20px;
+            margin-top: 130px;
+             margin-left: 250px;
+            font-family:Arial, Helvetica, sans-serif}
+        .text10{
+             text-align: left;
+            font-size: 20px;
+            margin-top: 50px;
+            margin-left: 250px;
+            font-family:Arial, Helvetica, sans-serif}
+        
+        .box3{ 
+            width: 100%;
+            height: 320px;
+            margin-top: -350px;}
+        .text11{
+            text-align: left;
+            font-size: 20px;
+            margin-top: 20px;
+            margin-left: 10px;
+            font-family:Arial, Helvetica, sans-serif }
+        .box4{ 
+            width: 100%;
+            height: 320px;
+            margin-top: -250px;}
+        .text12{
+            text-align: center;
+            font-size: 50px;
+            margin-top: -138px;
+            font-family:Arial, Helvetica, sans-serif}
+        .text13{
+            text-align: left;
+            font-size: 30px;
+            margin-top: 200px;
+            margin-left: 450px;
+            font-family:Arial, Helvetica, sans-serif}
+        .box5{
+            height: 780px;
+            margin-top: -700px; }
+         .text14{
+            text-align: left;
+            font-size: 20px;
+            margin-top: 150px;
+            margin-left: 400px;
+            font-family:Arial, Helvetica, sans-serif} 
+
+         .text15{
+            text-align: left;
+            font-size: 30px;
+            margin-top: -1200px;
+            margin-left: 450px;
+            font-family:Arial, Helvetica, sans-serif} 
+         .box6{
+            height: 780px;
+            margin-top: -600px;}
+                             
+                            
+         .text16{
+            text-align: left;
+            font-size: 20px;
+            margin-top: 1100px;
+            margin-left: 350px;
+            font-family:Arial, Helvetica, sans-serif}    
+                    
+         .text17{
+            text-align: left;
+            font-size: 30px;
+            margin-top: 150px;
+            margin-left: 350px;
+            font-family:Arial, Helvetica, sans-serif} 
+         .box7{
+            width: 100%;
+            height: 780px;
+            margin-top: -750px;}
+         .text18{
+            text-align: left;
+            font-size: 20px;
+            margin-top: 140px;
+            margin-left: 350px;
+            margin-bottom: 250px;
+            font-family:Arial, Helvetica, sans-serif}
+         .text19{
+            text-align: center;
+            font-size: 50px;
+            margin-top: -138px;
+            font-family:Arial, Helvetica, sans-serif}
+           
+         .text20{
+            text-align: left;
+            font-size: 30px;
+            margin-top: 200px;
+            margin-left: 450px;
+            font-family:Arial, Helvetica, sans-serif}
+        .text21{
+            text-align: left;
+            font-size: 20px;
+            margin-top: 80px;
+            margin-left: 450px;
+            font-family:Arial, Helvetica, sans-serif} 
+       .text22{
+           text-align: left;
+           font-size: 30px;
+           margin-top: 100px;
+        margin-left: 450px;
+          font-family:Arial, Helvetica, sans-serif}
+        .text23{
+            text-align: left;
+            font-size: 20px;
+            margin-top: 100px;
+            margin-left: 450px;
+            font-family:Arial, Helvetica, sans-serif}  
+         .text24{
+            text-align: left;
+            font-size: 30px;
+            margin-top: 100px;
+            margin-left: 10px;
+            font-family:Arial, Helvetica, sans-serif} 
+        .text25{
+            text-align: left;
+            font-size: 20px;
+            margin-top: 100px;
+            margin-left: 450px;
+            margin-bottom: 250px;
+            font-family:Arial, Helvetica, sans-serif}
+    
